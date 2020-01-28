@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HighAnd Low</string>
+    <string name="hit_text">あたり</string>
+    <string name="lose_text">はずれ</string>
+    <string name="high_text">High</string>
+    <string name="next_text">次へ</string>
+    <string name="low_text">Low</string>
+    <string name="win_text">あなたの勝ちです</string>
+    <string name="loser_text">あなたの負けです</string>
+    <string name="result_text">リザルト</string>
+    <string name="nowWin_text">勝ち：</string>
+    <string name="nowLose_text">負け：</string>
+    <string name="return_text">戻る</string>
+</resources>
